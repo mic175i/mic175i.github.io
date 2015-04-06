@@ -9,6 +9,8 @@
 * contoh : git init blog-mic
 * hasil : membuat folder baru dengan nama 'blog-mic' 
 
+* halo 1
+
 ## Melihat perbedaan dengan versi sebelumnya ##
 
 * perintah : 'git diff'
@@ -17,6 +19,8 @@
 	...
 	c:\users\wisfsfsdfsdfsdfsdfsdf
 	...
+	
+* halo 2
 
 ## Melihat isi stage ##
 
@@ -30,3 +34,4 @@
 * test 2
 
 * test 2
+* halo3
