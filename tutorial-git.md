@@ -15,4 +15,18 @@
 * Contoh : 'git diff'
 * output :
 	...
-	c:\users\wi
+	c:\users\wisfsfsdfsdfsdfsdfsdf
+	...
+
+## Melihat isi stage ##
+
+* perintah : 'git diff --status'
+* perintah 1
+* perintah 2
+* perintah 3
+
+* test 1
+
+* test 2
+
+* test 2
