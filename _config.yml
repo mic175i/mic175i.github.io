@@ -6,7 +6,7 @@ highlighter:      pygments
 permalink:        /:categories/:title
 
 # Setup
-title:            'Living life and Make it Better' testing tarkhir
+title:            'Living life and Make it Better'
 tagline:          'life, learn, contribute'
 description:      'learns software development, java programming, android, linux, and other open source technology'
 url:              http://mic175i.github.io
